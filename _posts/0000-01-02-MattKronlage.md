@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Wow, 2 whole slides? thats *AMAZING*
 Use the left arrow to go back!
